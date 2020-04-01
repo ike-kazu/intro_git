@@ -3,3 +3,4 @@ gitのフローワーク
 git_add
 git_commit
 git status
+git diff
